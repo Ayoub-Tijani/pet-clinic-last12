@@ -46,7 +46,6 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/Ayoub-Tijani/pet-clinic-last12.git</developerConnection>
-        <tag>HEAD</tag>
     </scm>
 
 </project>
