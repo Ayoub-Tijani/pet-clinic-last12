@@ -1,0 +1,5 @@
+com\carlhuffmeier\petclinic\models\Vet.class
+com\carlhuffmeier\petclinic\models\Owner.class
+com\carlhuffmeier\petclinic\models\Person.class
+com\carlhuffmeier\petclinic\models\Pet.class
+com\carlhuffmeier\petclinic\models\PetType.class
