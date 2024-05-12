@@ -45,8 +45,8 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:git@github.com:springframeworkguru/pet-clinic.git</developerConnection>
-      <tag>pet-clinic-0.0.2</tag>
-  </scm>
+        <developerConnection>scm:git:https://github.com/Ayoub-Tijani/pet-clinic-last12.git</developerConnection>
+        <tag>pet-clinic-0.0.3</tag>
+    </scm>
 
 </project>
